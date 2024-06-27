@@ -1,0 +1,20 @@
+{
+  "name": "bhaktmitra",
+  "version": "1.0.0",
+  "description": "I will be complete soon. t",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "html5-qrcode": "^2.3.8",
+    "nodemailer": "^6.9.14",
+    "qrcode": "^1.5.3"
+  }
+}
